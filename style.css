@@ -131,6 +131,6 @@ h2 {
         background-image: url(images/pattern-background-desktop.svg);
         background-repeat: no-repeat;
         background-color: var(--Pale-blue);
-        background-position-y: -60%;
+        background-size: 100% auto;
     }
 }
